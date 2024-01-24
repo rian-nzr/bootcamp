@@ -7,11 +7,6 @@ btn.addEventListener("click", () => {
     menu.classList.toggle("hidden");
 });
 
-
-
-
-
-
 // Listen for click on the document
 document.addEventListener('click', function (event) {
 
